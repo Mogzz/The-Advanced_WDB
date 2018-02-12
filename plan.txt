@@ -1,0 +1,9 @@
+Async JS
+Testing With Jasmine
+Advanced Array Methods
+Closures and 'this'
+JS OOP
+Masstering ES2015 Part 1
+Guess the password refactor
+Mastering ES2015 part 2
+ES2016 & 2017
